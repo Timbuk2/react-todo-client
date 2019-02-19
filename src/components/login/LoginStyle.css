@@ -1,0 +1,37 @@
+.title {
+  font-size: 25px;
+  color: slategray;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.login-details {
+  display: flex;
+  flex-direction: column;
+  width: 25vw;
+  margin: 0 auto;
+}
+
+.signup-details {
+  margin-top: 15px;
+  font-size: 15px;
+}
+
+input {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 3px 3px 3px 3px;
+}
+
+button {
+  color: black;
+  font-weight: 700;
+  background-color: pink;
+  /* border-radius: 25px; */
+  width: 100px;
+  margin: 0 auto;
+}
+
+a {
+  color: dodgerblue;
+}

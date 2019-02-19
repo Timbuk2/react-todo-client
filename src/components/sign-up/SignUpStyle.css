@@ -1,0 +1,19 @@
+.signup-form {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 25vw;
+  margin: 0 auto;
+}
+
+.password-input {
+  display: flex;
+  direction: column;
+}
+
+.password-warning {
+  background-color: #b1373e;
+  color: white;
+  font-size: 12px;
+  width: 100%;
+}

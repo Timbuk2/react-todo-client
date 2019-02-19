@@ -1,0 +1,36 @@
+.page-container {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+
+.item {
+  margin-top: 5px;
+}
+
+.page-title {
+  /* margin-right: "auto"; */
+  float: "left";
+  font-size: 25px;
+}
+
+.task-input {
+  outline: none;
+  margin: 0 auto;
+  width: 33vw;
+  border-radius: 25px;
+  border: 2px solid lightseagreen;
+  padding: 5px;
+  height: 15px;
+}
+
+.task-form {
+  display: flex;
+  flex-direction: column;
+  margin: "0 auto";
+  border-top: 10px solid pink;
+  border-bottom: 10px solid pink;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
